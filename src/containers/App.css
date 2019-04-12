@@ -1,0 +1,24 @@
+@font-face {
+    font-family: "SEGA LOGO FONT";
+    font-style: normal;
+    font-weight: normal;
+    src: local("SEGA LOGO FONT"), url("SEGA.woff") format("woff");
+}
+
+h1 {
+    font-family: "SEGA LOGO FONT";
+    font-weight: 200;
+    color: rgb(150, 204, 255);
+}
+
+/* @import url('https://fonts.googleapis.com/css?family=Diplomata');
+@import url('https://fonts.googleapis.com/css?family=Vast+Shadow');
+@import url('https://fonts.googleapis.com/css?family=Fascinate+Inline');
+
+h1 {
+    font-family: 'Fascinate Inline', cursive;
+    font-family: 'Vast Shadow', cursive;
+    font-family: 'Diplomata', cursive;
+    text-transform: uppercase;
+    color: rgb(150, 204, 255);
+} */
